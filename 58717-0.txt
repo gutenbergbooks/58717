@@ -1,37 +1,7 @@
-The Project Gutenberg EBook of The Early History of the Post in Grant and
-Farm, by James Wilson Hyde
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll
-have to check the laws of the country where you are located before using
-this ebook.
+*** START OF THE PROJECT GUTENBERG EBOOK 58717 ***
 
 
 
-Title: The Early History of the Post in Grant and Farm
-
-Author: James Wilson Hyde
-
-Release Date: January 18, 2019 [EBook #58717]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK EARLY HISTORY OF THE POST ***
-
-
-
-
-Produced by Donald Cummings, Adrian Mastronardi, Graeme
-Mackreth The Philatelic Digital Library Project at
-http://www.tpdlp.net and the Online Distributed Proofreading
-Team at http://www.pgdp.net (This file was produced from
-images generously made available by The Internet
-Archive/American Libraries.)
 
 
 
@@ -404,7 +374,7 @@ CONTENTS
  Witherings alleges malicious prosecution--He is
  acquitted                                                             209
 
- Contributes £1000 "to the going-away of the Lord-Lieutenant
+ Contributes Â£1000 "to the going-away of the Lord-Lieutenant
  for Ireland"                                                          210
 
  Witherings' death--Epitaph to Witherings in church at
@@ -649,7 +619,7 @@ to Stanhope, now Lord Stanhope of Harrington, and to Charles, his son
 and heir-apparent. The appointment was as "Master of the Messengers and
 Runners, commonly called the king's posts, as well within the kingdom
 as in parts beyond the seas, within the king's dominions." The nominal
-wages or fee attaching to this office amounted to £66, 13s. 4d. per
+wages or fee attaching to this office amounted to Â£66, 13s. 4d. per
 annum, being the same as was granted to the Postmasters Sir William
 Paget and John Mason in the year 1545. But there were casualties
 attaching to the office, yielding a more certain income, which were
@@ -682,8 +652,8 @@ money to maintain the excesses of his Court; his ministers were called
 upon to find the money; they themselves had to wring it out of the
 pockets of the people; and its passage through their hands produced
 such attenuation that but a small portion reached the royal coffers.
-Clarendon says that of £200,000 drawn from the subject in a year by
-various oppressions, scarcely £1500 came to the king's use or account.
+Clarendon says that of Â£200,000 drawn from the subject in a year by
+various oppressions, scarcely Â£1500 came to the king's use or account.
 Monopolies in trade were granted for lump sums paid down, offices were
 bought and sold, no man seemed secure without support of a patron, and
 patronage was a marketable commodity.
@@ -807,7 +777,7 @@ Frizell in their places of Postmasters. For reformation they both agree
 in one, and that with the proposition wherewith Mr. Witherings hath
 formerly acquainted your honour. The displacing of these posts, and
 laying of certain and sure stages whereby His Majesty will save, as Mr.
-Burlamachi will make appear, above £1000 or £1500 yearly, now expended
+Burlamachi will make appear, above Â£1000 or Â£1500 yearly, now expended
 for expresses," etc.
 
 Mr. Burlamachi, whose Christian name was Philip, and Peter Rycaut were
@@ -903,9 +873,9 @@ from the active management and possession of the place was from
 the 4th September to the 28th December 1633. The details of the
 arrangement of this business are not easily understood, but it would
 seem that the first step was to get rid of the attorney; and with this
-in view the Earl of Arundel (the Earl Marshal) advanced about £1000
+in view the Earl of Arundel (the Earl Marshal) advanced about Â£1000
 to pay off Hatt, the earl retaining possession of Witherings' patent.
-Another claim was put forward by one Robert Kirkham for £200, due 25th
+Another claim was put forward by one Robert Kirkham for Â£200, due 25th
 May 1633, for a reversion of the Postmaster's office surrendered to
 Witherings and Frizell. This indebtedness was not denied by Witherings;
 but how there came to be a reversion in favour of Kirkham does not
@@ -1047,15 +1017,15 @@ alleged inaccuracies therein. "Witherings desires that de Quester may
 bring in all the rolls and books of accounts, from which Witherings
 may draw out a just account. Among the items in this account, covering
 a period of seventeen weeks, are the following:--For three portmantles,
-£1, 12s.; for cord and cloth to cover the mails, 2s. 6d.; for
+Â£1, 12s.; for cord and cloth to cover the mails, 2s. 6d.; for
 pack-thread to bind up the letters, 9s. 5d.; for pens, ink, and paper
-to write and to pack, £1, 1s.; to George Martin for carrying letters
-abroad, seventeen weeks, £2, 11s.; to John Ridge for the like service,
-£2, 11s.; to clerks' allowance for seventeen weeks, at the rate of £60
-per annum a piece, £39, 4s. 8d.; for candles, wax, and sealing-thread,
-5s. 4d.; one quarter's rent for the office and other rooms, £10." In
+to write and to pack, Â£1, 1s.; to George Martin for carrying letters
+abroad, seventeen weeks, Â£2, 11s.; to John Ridge for the like service,
+Â£2, 11s.; to clerks' allowance for seventeen weeks, at the rate of Â£60
+per annum a piece, Â£39, 4s. 8d.; for candles, wax, and sealing-thread,
+5s. 4d.; one quarter's rent for the office and other rooms, Â£10." In
 another paper, making further remarks in objection to de Quester's
-accounts, Witherings suggests "that if he and Lynde, who is paid £60
+accounts, Witherings suggests "that if he and Lynde, who is paid Â£60
 per annum for nothing else but to keep the accounts, were jointly to
 inspect the rolls and accounts, they would be able to 'just' them in
 one day."
@@ -1099,7 +1069,7 @@ apparel, and goods, and took from the post all his bundle of letters,
 among which was a packet from the king. The post showing them his pass
 from Secretary Coke, they bid him keep it to wipe his breech." The ill
 words of calling the men dogs seem to have been in common use in the
-channel at that time; for Sobrière, a Frenchman who visited England
+channel at that time; for SobriÃ¨re, a Frenchman who visited England
 at the period in question, makes mention of the incivility which his
 countrymen received on landing at Dover, the children running after
 them and calling with all their might, "A _Mounser_! a _Mounser_!" and,
@@ -1287,12 +1257,12 @@ mention will be made hereafter.
 Witherings was married to Dorothy, daughter of John Oliver of
 Wilbrougham; and she brought him a fair fortune. In a petition or
 representation made by her after Witherings' death, she mentions that
-£105 a year of her land was sold to assist him in procuring his place
+Â£105 a year of her land was sold to assist him in procuring his place
 as Postmaster.
 
 It is well here to remark, in relation to this sum, and the matter
-should be borne in mind in perusing what follows, that £105 in 1632
-would be equivalent to about £420 in the present day. Professor Masson,
+should be borne in mind in perusing what follows, that Â£105 in 1632
+would be equivalent to about Â£420 in the present day. Professor Masson,
 when speaking of the relative equivalents of English money now and
 in the first half of the seventeenth century, gives his impression
 "that any specified salary in English money (of that time) would have
@@ -1387,10 +1357,10 @@ post office was drafted in 1633--probably by Witherings. According
 to this paper, "it was calculated that in the 32 counties of England
 there were at least 512 market towns, which, one with another, sent 50
 letters per week to London, which, in respect of their answers, are
-to be reckoned at 4d. each, making in all 25,600 letters, or £426 per
+to be reckoned at 4d. each, making in all 25,600 letters, or Â£426 per
 week. The estimated charge for conveyance of these letters would be
-only £37 per week, leaving £388, 10s. weekly profit by this office, out
-of which was to be deducted £1500 per annum paid to the postmasters for
+only Â£37 per week, leaving Â£388, 10s. weekly profit by this office, out
+of which was to be deducted Â£1500 per annum paid to the postmasters for
 the charge of conveying his Majesty's packets. All letters on the road
 to Scotland were to be charged 2d. for every single, and 4d. for every
 double letter, to be paid at the receiving and delivery in London; for
@@ -1454,17 +1424,17 @@ Plymouth, as follows:[1]--
 
 "Having obtained an Order, dated 24th February 1630, from this Board
 for the weekly carriage of letters between London and Plymouth, the
-settling whereof had cost them £400, besides their great and daily
+settling whereof had cost them Â£400, besides their great and daily
 charge in keeping men and horses. Neither Lord Stanhope, nor Mr.
 Dolliver, the Paymaster of the Posts, had given any encouragement to
 this business, but rather opposed it; Lord Stanhope going about to
 assume the benefit of the merchants' letters, and raising the valuation
-of the post places of the Western road from £20 to £100. Pray their
+of the post places of the Western road from Â£20 to Â£100. Pray their
 lordships to require Lord Stanhope and the Paymaster of the Posts to
-answer wherefor they should raise the post places from £20 anciently
+answer wherefor they should raise the post places from Â£20 anciently
 given, and for what cause they (Stanhope and the Paymaster) should have
 the benefit of the merchants' letters. Pray also that Edward and Joseph
-Hutchins may, for £20, have the place filled by their father and
+Hutchins may, for Â£20, have the place filled by their father and
 grandfather for seventy years, or else the benefit of the merchants'
 letters, which their father had." Lord Stanhope's answer was to the
 effect that he doubted the statement as to the "great sums alleged to
@@ -1473,9 +1443,9 @@ have been given for obtaining the merchants' letters," that he did not
 by reason of those letters; he only takes upon him the appointment
 of the posts." The meaning of this answer is not very clear; but the
 two papers taken together show that the postmasters were in the habit
-of buying their offices, paying £20 for them, and that it was now
-attempted to raise the charge to £100. Stanhope's salary was only
-£66, 13s. 4d. per annum, and, in consonance with the shameful traffic
+of buying their offices, paying Â£20 for them, and that it was now
+attempted to raise the charge to Â£100. Stanhope's salary was only
+Â£66, 13s. 4d. per annum, and, in consonance with the shameful traffic
 of the age, he made his profit in his own position by requiring his
 subordinates to purchase their places.
 
@@ -1494,7 +1464,7 @@ other long periods. About April 1633 petitioners were all dismissed
 without restoring any of their moneys, or giving them any allowance
 towards their maintenance, so that they have been driven to pawn their
 household stuff, and, if not relieved, are like to perish. The ordinary
-posts beyond the seas likewise dismissed have been allowed £80 yearly,
+posts beyond the seas likewise dismissed have been allowed Â£80 yearly,
 although their places were not so good as petitioners'. Pray that, upon
 a new election of a Postmaster, petitioners may be admitted to their
 several places again, or each of them receive a pension from the office
@@ -1513,7 +1483,7 @@ the 29th June of that year, the foot post between London and Dover,
 Edward Ranger, was examined as to the exporting of gold before Sir John
 Bankes, the Attorney General. Ranger deposed "that within two years
 last past he had carried from London to Dover gold and silver, to the
-value of several thousand pounds in the whole, for Cæsar Dehaze, Edward
+value of several thousand pounds in the whole, for CÃ¦sar Dehaze, Edward
 Buxton of Lime Street, Jacob Deleap, Roger Fletcher, Walter Eade,
 and John Terry of Canning Street, Charles French of Wallbrook, Peter
 Heme of Love Lane, Lucas Jacob of Botolph's Lane, and John Fowler of
@@ -1641,7 +1611,7 @@ inland letters was propounded; it is attributed to Witherings:--
 and all parts of His Majesty's dominions for carrying and recarrying
 his subjects' letters. The clear profits to go towards the payment
 of the postmasters of the roads of England, for which His Majesty is
-now charged with £3400 per annum." The chief points of the proposal
+now charged with Â£3400 per annum." The chief points of the proposal
 are: "That an office or counting-house should be established in London
 for receiving letters; that letters to Edinburgh and other places
 along that road should be put into a 'portmantle,' with particular
@@ -1727,7 +1697,7 @@ Lord Stanhope; but he meets this by saying that "Lord Stanhope will
 make as much of them"--that is, the deputy postmasters' places--"as
 hath heretofore been made by this said advancement of all their
 places." The meaning of this appears to be, that Stanhope would still
-receive his fee of £66, 13s. 4d. as Chief Postmaster of England, would
+receive his fee of Â£66, 13s. 4d. as Chief Postmaster of England, would
 appoint the deputies of the roads, and continue to receive payment for
 the sale to them of their places.
 
@@ -1821,16 +1791,16 @@ profits to be applied towards his education. Being much impoverished by
 the forbearance of his post wages for ten years and a half, petitioner
 is unable longer to maintain his kinsman at the University of Oxford.
 If his arrearage of 16d. per diem were paid, he should be a loser above
-£100, he being at charges of boat-hire to carry His Majesty's letters
+Â£100, he being at charges of boat-hire to carry His Majesty's letters
 aboard His Majesty's ships, and of warning-fires on shore, besides of
-horse and man by land. Prays payment of his arrears, amounting to £255,
+horse and man by land. Prays payment of his arrears, amounting to Â£255,
 10s."
 
 1635. "Petition of Alexander Nubie to the Council:--Petitioner being
 post of Dartford, is forced to keep sixteen horses for the performance
 of the service, which is an extraordinary great charge, and for which
 he has received no pay these two years and a half, so that there is due
-to him about £100. Is poor and in debt, and dare not go abroad for fear
+to him about Â£100. Is poor and in debt, and dare not go abroad for fear
 of arrest by creditors by whom he has been furnished with hay and other
 provisions. Prays for protection until he may receive his money."
 
@@ -1841,14 +1811,14 @@ since petitioner was appointed to the said place by Lord Stanhope.
 Understanding that all posts are in person to supply their places,
 petitioner, being tied to attendance on the prince, prays the Secretary
 to grant the place to petitioner's brother, Henry Hookes, who was
-living in the said town, and also to give order for £300, arrears due
+living in the said town, and also to give order for Â£300, arrears due
 for the same place."
 
 1636. "William Hugessen, postmaster of Dover, to Secretary
 Windebank:--Has served as postmaster in the Port of Dover many years,
 and keeps the most convenient and fairest house betwixt London and
 Dover, and where ambassadors generally lodge. Is behindhand of his pay
-about £400. If there be an order that no man may enjoy the place except
+about Â£400. If there be an order that no man may enjoy the place except
 he serve by himself, he desires that Edward Whetstone, who is his
 tenant in the house called the Greyhound of Dover, may have the place
 upon such conditions as others, but if possible in Hugessen's name as
@@ -1857,12 +1827,12 @@ formerly."
 1637. "March 26th.--Petition of Edmund Bawne, postmaster of
 Ferrybridge, Co. York, to the Council:--After the death of petitioner's
 grandfather, who served as postmaster in the place abovesaid thirty
-years, petitioner, for £200, by his grandfather three years since paid
+years, petitioner, for Â£200, by his grandfather three years since paid
 Lord Stanhope, was admitted into the same place. Upon questioning
-Lord Stanhope's patent, petitioner gave Mr. Witherings £35 more for
+Lord Stanhope's patent, petitioner gave Mr. Witherings Â£35 more for
 his settlement, and was, by the signatures of Secretaries Coke and
 Windebank, and Witherings, admitted into the same. Petitioner's
-grandfather is owing for wages at least £500 from His Majesty. Without
+grandfather is owing for wages at least Â£500 from His Majesty. Without
 any misdemeanour, being now sought to be ousted, he prays relief."
 
 These various petitions set forth not only that the country postmasters
@@ -1902,8 +1872,8 @@ is dealt with in the following petition, dated March 1637:--
 Wales, to the king:--
 
 "There is due to the petitioner for his fee of 100 marks per annum
-(£66, 13s. 4d.), as Master and Comptroller of the Posts, being in
-arrear for 19 years and more. £1266, 13s. 4d., which petitioner, when
+(Â£66, 13s. 4d.), as Master and Comptroller of the Posts, being in
+arrear for 19 years and more. Â£1266, 13s. 4d., which petitioner, when
 he enjoyed the said place, was in some sort better able to forbear,
 and therefore did not importune for the same; but now, having resigned
 the said office, full sore against his will, but in obedience to
@@ -1917,7 +1887,7 @@ office, he is disabled to maintain himself in the degree of an English
 baron. In consideration of his free yielding of his place, prays order
 for payment of the arrear, and some satisfaction for his office. A
 man of quality, and honourable knight, would willingly have given
-petitioner £5000 for his office."
+petitioner Â£5000 for his office."
 
 Lord Stanhope states that he resigned his office "sore against his
 will," and "in obedience to His Majesty's pleasure"; but no hint is
@@ -1982,7 +1952,7 @@ grant made in favour of Frizell and Witherings of an earlier date.
 In the same month (June 1637), a grant was made to Secretaries Coke
 and Windebank "of the office of Postmaster within His Majesty's
 dominions for their lives, if they so long continue Secretaries,
-with the like fee of £66, 13s. 4d. (per annum), to be paid quarterly
+with the like fee of Â£66, 13s. 4d. (per annum), to be paid quarterly
 out of the Exchequer, as was formerly granted to Lord Stanhope, who
 has surrendered that grant. His Majesty thereby annexes the office
 of Postmaster to the Principal Secretaries for the time being, and
@@ -2116,7 +2086,7 @@ me of the trouble of being a suitor. I know that his lordship meant me
 some good in that place which Witherings how enjoys, whereof I give a
 little touch in my petition. How I missed it, _nescio quid, nec quare_.
 I entreat that, when you move His Majesty on my behalf, you would
-affirm that all the fortune I got does not amount to above £5000, which
+affirm that all the fortune I got does not amount to above Â£5000, which
 is but a small thing to maintain myself, my wife, and six children.
 Neither will I be so immoderate in my suit as to desire more than what
 the late king once thought me worthy of: I mean the place for the Latin
@@ -2134,7 +2104,7 @@ greater punctuality, as regards payment of wages, than the postmasters
 of the roads. The following petition of 1637 proves this:--"Petition
 of John Wytton, Deputy Postmaster of the Court, daily attending your
 Majesty, to the king. For his wages of 10s. per diem there is due to
-him about £1400; neither has he allowance of diet, or horsemeat, or any
+him about Â£1400; neither has he allowance of diet, or horsemeat, or any
 other perquisite, the nonpayment whereof has brought him much into
 debt. Some of his creditors have petitioned the Lord Chamberlain to
 have the benefit of the law against him. He has granted the request,
@@ -2148,9 +2118,9 @@ reign, Buckbury, the king's Postmaster, assigned to him the execution
 of the place, and that for his pains he was to receive the third part
 of Buckbury's wages when they were paid. Wytton was turned out of the
 place in 1637, when there were for wages eight years and a half due to
-him, amounting to £530. This would no doubt be one-third of the sum due
+him, amounting to Â£530. This would no doubt be one-third of the sum due
 to Buckbury. "I can make it appear by bills upon oath," says Wytton,
-"that during the time the debt grew I have disbursed almost £300 out
+"that during the time the debt grew I have disbursed almost Â£300 out
 of purse in executing the place. And I do humbly conceive that my own
 attendance, my keeping of lodgings and horses in town for eight years
 and a half, may be thought worthy of the remainder of the sum above
@@ -2232,7 +2202,7 @@ The date fixed for its taking effect was Michaelmas next ensuing.
 But the payments above authorised did not by any means clear off the
 indebtedness of the State towards the postmasters; for by a petition
 of the postmasters to the House of Lords in December 1660, it is set
-forth that "in the year 1637 they were upwards of £60,000 in arrear of
+forth that "in the year 1637 they were upwards of Â£60,000 in arrear of
 their wages, whereof they have never received one penny." That means
 that, according to our present value of money, the postmasters were in
 arrears of pay to the extent of about a quarter of a million sterling.
@@ -2560,7 +2530,7 @@ Suspicion that his patent was surreptitiously obtained--no signed
 bill was found. Persons who hold the office of Postmaster abroad are
 of so great quality that they disdain to correspond with a man of his
 mean condition. Some satisfaction may be given him, but he has very
-much enriched himself upon the place. He is said to be worth £800 a
+much enriched himself upon the place. He is said to be worth Â£800 a
 year in land. The office of Postmaster-General being now vested in
 the Secretaries, the carrying of letters is a business of State. If
 Witherings shall insist upon his patent, His Majesty may sequester
@@ -2574,7 +2544,7 @@ as set forth and described in the king's proclamation of the 31st July
 that one "Jason Grover, carrier of Ipswich and Yarmouth, was taken in
 custody by a messenger, upon complaint that he had transgressed the
 proclamation and patent granted to Mr. Witherings." The Lords could not
-then settle the matter, and Jason was discharged upon a bond of £200,
+then settle the matter, and Jason was discharged upon a bond of Â£200,
 to appear at Hilary term next, to answer what was alleged against him.
 In a petition to the Council in January 1638, Grover gives his version
 of the affair as follows:--"Petitioner, about two months ago, riding on
@@ -2762,28 +2732,28 @@ for performance of His Majesty's service; and on the 17th March 1637
 petitioner, during his illness, disposed of his estate by will, and
 then assigned his arrears due to him for his post-wages to his son,
 towards discharging petitioner's debts, and benefit of his wife and
-children. Mr Witherings, in regard petitioner would not give him £100
+children. Mr Witherings, in regard petitioner would not give him Â£100
 for petitioner's place (over and above the carriage of the merchants'
-letters twice every week), has for £40 given orders for the said place
+letters twice every week), has for Â£40 given orders for the said place
 to another, whose parents have been great recusants. Petitioner being
-still able and willing, and his arrears £368 (that stage being the
+still able and willing, and his arrears Â£368 (that stage being the
 longest between London and Chester, and yet is allowed only 20d. per
 diem), prays order that he may be continued in his place, and may
-receive the said £368." This petition was backed up by a certificate of
+receive the said Â£368." This petition was backed up by a certificate of
 the Justices of the Peace of the county, setting forth the petitioner's
 fitness for the office.
 
 Another postmaster, Thomas Parks, on the stage from London to Barnet,
 petitions Secretary Windebank to the following effect:--"Has executed
-that office about six years, which has stood him in £180, without any
+that office about six years, which has stood him in Â£180, without any
 neglect, as Mr. Railton can inform you, and has received but two years'
 pay at the rate of 20d. per diem. Notwithstanding his diligence,
 Mr Witherings endeavours to bring in another, and has already taken
 from petitioner the through posts place of Charing Cross, which cost
-petitioner £63, 6s. Prays order to Witherings to deliver petitioner his
+petitioner Â£63, 6s. Prays order to Witherings to deliver petitioner his
 orders and confirm him in his place."
 
-David Francis, late post of Northop, petitions thus:--"There is £90
+David Francis, late post of Northop, petitions thus:--"There is Â£90
 in arrear to petitioner for execution of the said place, as appears
 by the last account of Lord Stanhope to the Auditors. Has been three
 months in town soliciting payment, and received fair promises from Mr.
@@ -2949,7 +2919,7 @@ wherein he now serves; during which time he never received benefit by
 any suit; but he purchased some post places under Lord Stanhope, which
 he has executed by deputies for many years. But now Lord Stanhope,
 having surrendered his patent, petitioner's post places, to the value
-of £200 per annum, are taken away, there being £650 due to him for
+of Â£200 per annum, are taken away, there being Â£650 due to him for
 wages upon the said places; and now petitioner, being employed in the
 prosecution of delinquents for converting timber to coal for making
 iron, and having expended much money therein, and being likely to bring
@@ -3224,7 +3194,7 @@ employed between Whitehaven and Dublin. The agreement with the master,
 Nicholas Herbert, was that his barque should be provided "with one
 sufficient master and other meet and able sailors" ... "to carry the
 letters of His Majesty or the Council to the Lord Deputy at Dublin, and
-shall receive £10 per lunar month."
+shall receive Â£10 per lunar month."
 
 As has already been remarked, there is reason to suppose that
 Witherings had come to have leanings towards the Parliamentarians, a
@@ -3458,9 +3428,9 @@ discharge. He was not, however, then released.
 On the following day, 25th December, a brief return was made by
 Burlamachi of the revenue and expenditure of the Inland Letter Office,
 from 4th August 1640 to 25th December 1641, as follows:--Moneys
-received, £8363; moneys expended, £4867; balance in hand, £3496,
-whereof £1400 has been paid to the Secretary of State. Of the other
-£2000, Burlamachi states that "those that keep the office are to be
+received, Â£8363; moneys expended, Â£4867; balance in hand, Â£3496,
+whereof Â£1400 has been paid to the Secretary of State. Of the other
+Â£2000, Burlamachi states that "those that keep the office are to be
 considered for their pains and attendance, which are great," and he
 adds something about a probable increase from the Irish correspondence.
 On the 29th December, Burlamachi draws up a fresh petition, this time
@@ -3545,12 +3515,12 @@ at Tyburn on the 19th April 1662. His full name was Miles Corbett.
 About the year 1644, Thomas Witherings must have been, or considered to
 be, a man of a respectable estate, for, according to the proceedings
 of the Committee for the Advance of Money, he was, on the 18th June of
-that year, assessed for a contribution of £800. Now, as the assessment
+that year, assessed for a contribution of Â£800. Now, as the assessment
 was based upon one-twentieth of real estate, and one-fifth of personal
 estate, the sum assessed represents a condition of fair wealth. The
 full amounts of these assessments were seldom, however, exacted, and
 Witherings seems to have been let off after making payments amounting
-to about £550.
+to about Â£550.
 
 By an Order in Parliament of 23rd February 1649, the appointment of
 Robert Earl of Warwick as Lord High Admiral and Lord Warden of the
@@ -3573,7 +3543,7 @@ for letters at the post office, was to be detained; in the same month
 Mr. Witherings was ordered to prosecute "Wilkes" for the seditious
 speeches mentioned by him. The Council of State gave orders, on the 8th
 June, to stay all letters brought to the post, directed to Mons. de la
-Caille, Marchand Français, démeurant à la Haye, and to bring them to
+Caille, Marchand FranÃ§ais, dÃ©meurant Ã  la Haye, and to bring them to
 the Council. And in the following month the Council gave further orders
 that all letters which might be thought to contain anything prejudicial
 to the State should be examined. Later, complaints were made against
@@ -3622,12 +3592,12 @@ to its owner, the salvage due to the mariners being paid by the State.
 In 1650, authority was given for employing a post barque for the
 conveyance of letters, etc., to ply between Liverpool and Carlingford
 or Carrickfergus. The boat proposed was the galiot _Robert_, and
-the sum to be paid for its use, £11 a month. About the same time,
+the sum to be paid for its use, Â£11 a month. About the same time,
 two post barques were settled to ply between Milford Haven and the
 headquarters of the Lord-Lieutenant of Ireland, to carry letters "from
 Attorney-General Prideaux or any other public Minister." The cost
 of maintaining the packet boats between Holyhead and Dublin at this
-period was £9, 6s. 8d. each per month. In order to keep up a constant
+period was Â£9, 6s. 8d. each per month. In order to keep up a constant
 correspondence between the forces in Ulster and the standing army, a
 packet boat was also ordered to ply between Ulster and Carlisle.
 
@@ -3713,7 +3683,7 @@ when held by the enemy. That he was at many private meetings at the
 Hoope Tavern, Leadenhall Street, plotting about the revolt of Capt.
 Batten and the fleet (1648). That he conveyed moneys into France for
 the relief of Cavaliers, some of which was taken. That he concealed
-an annuity of £1200, and several sums due to the State which are in
+an annuity of Â£1200, and several sums due to the State which are in
 his custody, and paid several sums to Sir Edw. Sydenham, a delinquent,
 contrary to the Order of the Council of State. That he is very familiar
 with delinquents, stands bound for them, conceals their letters,
@@ -3731,7 +3701,7 @@ and that Witherings carried thirty witnesses from London to Chelmsford
 in support of his case. Witherings tells us that Wilkes, "with the
 assistance of some butchers whom Witherings had sued for great sums,"
 prosecuted him maliciously, and that Wilkes and others offered from
-£20 to £50 to witnesses to swear against Witherings. This man Wilkes
+Â£20 to Â£50 to witnesses to swear against Witherings. This man Wilkes
 seems to have been a troublesome fellow, for Witherings relates that
 "Wilkes was committed prisoner by Parliament for furnishing horses to
 the enemy," and that, "after his enlargement, he accused Parliament of
@@ -3739,7 +3709,7 @@ being rogues, villains, and devils, and declared he hoped to see the
 destruction of them all; for which words he was indicted, by order of
 the Council." Witherings, in his defence, and as showing his attachment
 to the party then in power, makes mention of the fact that he had been
-"very serviceable to Parliament, contributing £1000 on the going away
+"very serviceable to Parliament, contributing Â£1000 on the going away
 of the Lord-Lieutenant for Ireland." The indebtedness of the butchers,
 above referred to, may have had its origin in sales of cattle reared or
 fed on Witherings' property in Essex; or it may be that he traded in
@@ -3778,7 +3748,7 @@ The inscription upon the tablet is as follows:--
    Who dies in Christ he dies not but to live.
 
      In Christo mori est vivere.
-     Obiit Anno. Dni. 1651, Ætat. Suæ 55."
+     Obiit Anno. Dni. 1651, Ã†tat. SuÃ¦ 55."
 
 In _Memories of Old Romford_, it is stated that Witherings was a
 Puritan; in any case his profession in later life seems to have been
@@ -3843,7 +3813,7 @@ for the office of Foreign Postmaster stood in favour of two lives,--his
 own and that of William Frizell,--the possession of the office was
 in his right (having many years before bought out Frizell), and must
 remain of his right so long as either of the two lived. Now, by a
-provision in Witherings' will, he left £300 a year to Sir David Watkins
+provision in Witherings' will, he left Â£300 a year to Sir David Watkins
 to execute the office after his death, and to maintain and educate his
 son Thomas until he should be of sufficient age to take his father's
 place. Witherings' son died about 1652, and, as a matter of fact, Sir
@@ -3860,7 +3830,7 @@ Charles Lord Stanhope. This claim was for both offices, Inland and
 Foreign. That of Walter Ward, merchant, also to both offices. That of
 Thomas Billingsley to the Foreign Office; and that of Benedict Moore
 and William Jessop, on behalf of the creditors and three daughters
-of Robert Lord Rich, to a payment of £900 a year out of the Foreign
+of Robert Lord Rich, to a payment of Â£900 a year out of the Foreign
 Letter Office. A claim was also preferred by Mrs. Witherings, on
 behalf of herself and daughter, on the ground that a large part of her
 fortune had been spent in purchasing and developing the Foreign Letter
@@ -3891,7 +3861,7 @@ Chester and Dublin; and that all letters to or from Scotland should
 circulate by way of Leith or Edinburgh.
 
 That public letters--letters of Government--should be carried free.
-That the rental for both offices should not be less than £6300 per
+That the rental for both offices should not be less than Â£6300 per
 annum.
 
 Soon after this time tenders were called for, in connection with which
@@ -3913,7 +3883,7 @@ that such as are not known by their seals have an endorsement as
 follows:--'These are for the service of the Commonwealth,' signed by
 the persons themselves or their clerks.
 
-"(4) That the sum of £---- be paid by the undertakers of this business
+"(4) That the sum of Â£---- be paid by the undertakers of this business
 every three months.
 
 "(5) They shall receive for single letters carried into Ireland, 6d.;
@@ -3937,7 +3907,7 @@ Council of State."
 On the 29th June 1653, offers were considered by the Posts Committee,
 under the foregoing specification of conditions, as follows:--
 
- Henry Robinson                   £8041   0   0  per annum.
+ Henry Robinson                   Â£8041   0   0  per annum.
  Ben. Andrewes                     9100   0   0      "
  John Goldsmith                    8500   0   0      "
  Ralph Kendall                     1103  12   9      "
@@ -3959,7 +3929,7 @@ profits thereof, and a warrant to be drawn for that purpose; power
 given him to stop all mails of letters carried by any person not
 authorized by him; and his office for postage of letters to be freed
 from all taxes." The terms agreed upon as to payment were not those in
-Manley's offer, but £10,000 a year.
+Manley's offer, but Â£10,000 a year.
 
 Before proceeding further, it is necessary to revert to the year 1649.
 In this year the Common Council of London set up a rival post of
@@ -4103,7 +4073,7 @@ CHAPTER VIII
 
 The Inland and Foreign Post Offices were now combined under the
 management of John Manley, to whom they were farmed for a sum of
-£10,000 a year. This was in 1653, and the grant was limited to a
+Â£10,000 a year. This was in 1653, and the grant was limited to a
 period of two years. Manley was a Justice of Peace for the county of
 Middlesex, and is referred to in some contemporary records as Justice
 Manley. He made himself useful on the bench to Cromwell's party in
@@ -4113,7 +4083,7 @@ referred to as Captain Manley. In 1655, when Manley's term was up,
 the office changed hands. On the 3rd of May in that year, an Order
 in Council was passed, to the effect that the management of the Post
 Office should be performed by John Thurloe, Secretary of State,
-"security being given for the payment of the present rent of £10,000 a
+"security being given for the payment of the present rent of Â£10,000 a
 year, and for keeping the conditions of the contract with the present
 farmer, etc., beginning from the expiration of Manley's contract."
 Manley's contract fell to expire on the 30th June following. In
@@ -4162,13 +4132,13 @@ by post." The rates of postage for letters were as follows, viz.:--
  stage.
 
 All persons save the Postmaster-General or his deputies were forbidden
-to supply post horses on pain of a fine of £1000 a month--half to the
+to supply post horses on pain of a fine of Â£1000 a month--half to the
 Protector and half to the discoverer. Many other provisions are set
 down which need not be quoted here.
 
 Two months later, 27th August 1657, on a report from the Committee
 on the Postage, it was ordered that a lease be granted of the office
-of Postmaster-General to Thurloe, at a rent of £10,000, to be paid
+of Postmaster-General to Thurloe, at a rent of Â£10,000, to be paid
 quarterly; "he to be at all charges, take no greater rates of postage
 than expressed in the Act, and send all Government letters free: the
 grant to be for as many years as His Highness thinks fit, not exceeding
@@ -4258,10 +4228,10 @@ should be removed, this could not be arranged.
 Now, as a consequence of these proceedings, and of the Act of the 11th
 October, the office passed into the hands of Dr. Benjamin Worsley, to
 whom the farm was then granted for a term of seven years, at a rental
-of £20,000. This seems a large advance upon the previous rent of
-£10,000; but Thurloe states that he improved the office £4000 per annum
+of Â£20,000. This seems a large advance upon the previous rent of
+Â£10,000; but Thurloe states that he improved the office Â£4000 per annum
 to the State voluntarily, which he might have put in his own purse; and
-the rent he was paying when he vacated the farm must have been £14,000
+the rent he was paying when he vacated the farm must have been Â£14,000
 a year. But Worsley did not long enjoy the position, for shortly
 thereafter he was "violently turned out." Worsley had been selected,
 as one of several persons, for nomination to Parliament as a general
@@ -4310,7 +4280,7 @@ forward in clearing out. That Scott was virtually Postmaster-General
 for a time seems to be proved by a warrant, issued by the Council of
 State on the 9th March 1660, "for intelligence, from the proceeds of
 the Post Office, paid by Wm. Scott and Isaac Dorislaus, whilst they
-managed it under Thomas Scott, £1000."
+managed it under Thomas Scott, Â£1000."
 
 Like most of the Postmasters-General of these early days, Scott had
 an experience of imprisonment. After the Restoration he was taken; he
@@ -4327,15 +4297,15 @@ very clear how it was managed; but a State paper of 3rd August 1660
 shows that an account was rendered of its business from 25th March to
 25th June of that year by Job Allibond and Francis Manley--the former
 a clerk in the office, and the latter Riding Purveyor to His Majesty.
-The receipts for the quarter were stated to be £5578, 9s. 5d., and the
-disbursements, £5431, 9s. 6d. Manley speaks of himself as being late
+The receipts for the quarter were stated to be Â£5578, 9s. 5d., and the
+disbursements, Â£5431, 9s. 6d. Manley speaks of himself as being late
 Manager.
 
 FOOTNOTES:
 
 [Footnote 2: Havre-de-Grace.]
 
-[Footnote 3: Königsberg.]
+[Footnote 3: KÃ¶nigsberg.]
 
 
 
@@ -4346,7 +4316,7 @@ CHAPTER IX
 The Restoration was now an accomplished fact, and the Post Office
 passed into the hands of Col. Henry Bishop of Henfield, Sussex, to whom
 was granted the farm of the office for a period of seven years, dating
-from the 25th June 1660, at an annual rental of £21,500. Bishop was the
+from the 25th June 1660, at an annual rental of Â£21,500. Bishop was the
 third son of Sir Thomas Bisshopp, Knight, of Henfield. The Bisshopps
 were formerly a Yorkshire family, some of whom served under Lord
 Wharton in his proceedings against the Scotch in a previous age. Henry
@@ -4360,7 +4330,7 @@ his memory, setting forth that he died in 1691, at the age of eighty.
 It is not apparent upon what grounds Bishop obtained the farm, or
 whether he had performed any services entitling him to such an
 appointment. Under his indenture he was required to pay one quarter's
-rent in advance, namely, £5375, to bear all the expense of transmitting
+rent in advance, namely, Â£5375, to bear all the expense of transmitting
 Government letters, and to carry, free, single letters from members
 of Parliament. He was required "to give in a true catalogue of all
 postmasters employed by him, and dismiss those excepted against by a
@@ -4381,12 +4351,12 @@ of Prideaux's giving up the Post Office. Indeed the paper is indorsed
 Royal, and was also allied to a grandee under the late powers; that in
 1652 he got Prideaux put out of the Post Office, by reducing the price
 of letters from 6d. to 3d., and bringing in a threefold weekly postage;
-that, to recompense him for £5036, 8s. spent therein, he was to have a
+that, to recompense him for Â£5036, 8s. spent therein, he was to have a
 weekly payment from the post office; and he took the office in 1660
 in Bishop's name, and settled a foreign correspondence, but, being
 dissatisfied with Bishop, had the office transferred to his Cousin
 O'Neale" (O'Neale was successor to Bishop) "on condition of continuing
-him £800 a year therefrom, but this has not been done," etc.
+him Â£800 a year therefrom, but this has not been done," etc.
 
 Whether Oxenbridge was able to exercise the interest here pretended is
 not clear. He was employed in the Post Office under Bishop for a time,
@@ -4440,7 +4410,7 @@ out of the place ever since. A former postmaster of Newcastle-on-Tyne,
 Thomas Swan, claims restoration to the place of postmaster because
 the "pretenders who oppose him have not the least interest"; that
 his family had been loyal almost to their extirpation and banishment
-from the town; and that £674, 13s. is still due to his late father as
+from the town; and that Â£674, 13s. is still due to his late father as
 postmaster, Burlamachi not having allowed him to pay himself out of
 the letter office, etc. These are specimens of the memorials sent in
 immediately after the Restoration, and which the new powers were called
@@ -4612,10 +4582,10 @@ remaining portion of the seven years' lease granted to Bishop. It would
 seem that a money consideration was made by O'Neale to Bishop for the
 transfer of the office; for in a statement of some proceedings (before
 the Council apparently), it is stated "that Colonel Bishop, before his
-last appearance at Council, would have taken £4000 for resignation of
-his grant, but has since advanced to £8000, which he says Mr. O'Neale
-has offered to him; O'Neale also offers to Secretary Bennet £2000,
-and £1000 a year during Bishop's lease; this can be no disservice to
+last appearance at Council, would have taken Â£4000 for resignation of
+his grant, but has since advanced to Â£8000, which he says Mr. O'Neale
+has offered to him; O'Neale also offers to Secretary Bennet Â£2000,
+and Â£1000 a year during Bishop's lease; this can be no disservice to
 the Duke of York, who can expect no improvement till Bishop's lease
 terminates." Apparently O'Neale took up the grant under the whole
 conditions, privileges, and obligations applicable to Bishop's tenure.
@@ -4642,7 +4612,7 @@ have been a special favourite of Charles II., for he enjoyed several
 grants or monopolies besides that of the Post Office.
 
 O'Neale's grant, dating from the 25th March 1663, was for a period of
-four and a quarter years, at a rental of £21,500, but, like several
+four and a quarter years, at a rental of Â£21,500, but, like several
 of the other grantees, he did not complete his term, his death taking
 place about October 1664. Pepys, in recording this event, adds the
 remark, "I believe to the content of all the Protestant pretenders in
@@ -4695,14 +4665,14 @@ while his grant purported to cover all the king's dominions, the
 postmaster at Edinburgh, Robert Mein, was independent of him, Mein
 having had a gift of that office made by His Majesty at Stirling,
 and confirmed since the Restoration. For the loss of revenue in this
-quarter, O'Neale claimed a deduction from his rent of £2000 a year.
+quarter, O'Neale claimed a deduction from his rent of Â£2000 a year.
 
 It may be well here to mention that, shortly after O'Neale's grant of
 the Post Office, an Act was passed--15 Chas. II. c. 14 (1663)--settling
 the profits of the business upon James Duke of York and his heirs male.
 That is to say, the rentals were the claim or right of the Duke of
 York; but they were subject to payments to be made, under Privy Seal,
-in favour of the king, to an amount not exceeding £5382, 10s. per
+in favour of the king, to an amount not exceeding Â£5382, 10s. per
 annum. By a later Act--22 & 23 Chas. II. c. 27--this reservation in
 favour of the king was made perpetual.
 
@@ -4791,12 +4761,12 @@ sends them." Then he adds, that the chief office is "so fumed, morning
 and night, that they can hardly see each other; but had the contagion
 been catching by letters, they had been dead long ago. Hopes to be
 preserved in their important public work from the stroke of the
-destroying angel." Williamson had asked Hickes to give £5 on his behalf
+destroying angel." Williamson had asked Hickes to give Â£5 on his behalf
 to the poor of St. Martins-in-the-Fields; but the latter answered that
 he did not know where to get it at this time, "where all doubt ever
 seeing each other again." Hickes adds, that the sickness is increasing,
 and that their gains at the Post Office are so small that "they will
-not at the year's end clear £10 of their salaries." The whole business
+not at the year's end clear Â£10 of their salaries." The whole business
 of the City of London seems to have become paralysed. On the 3rd
 August an ambassador in London wrote to his Government that "there was
 no manner of trade left, nor conversation, either at Court or on the
@@ -4821,7 +4791,7 @@ Hickes did not, however, immediately retire from the Post Office: he
 remained in its service some time longer. In another petition at the
 time of the Restoration, he makes mention of some of his official
 antecedents. He says that "he sent the first letter from Nantwich to
-London by post in 1637, a road now bringing in £4000 a year." He
+London by post in 1637, a road now bringing in Â£4000 a year." He
 settled the Bristol and York posts, and conveyed letters to the late
 king at Edgehill and Oxford. He refers to his committal to prison,
 previously mentioned in these pages, in 1643; and gives us the further
@@ -4832,7 +4802,7 @@ back into the London Post Office, under the Commonwealth, about the
 year 1651. In yet a further petition, Hickes, again claiming credit for
 keeping the Post Office open during the Plague, begs that he may have
 an order to the Commissioners of Prizes, to deliver to him some brown
-and white sugar granted to him by His Majesty from the ship _Espérance_
+and white sugar granted to him by His Majesty from the ship _EspÃ©rance_
 of Nantes, condemned as a prize at Plymouth.
 
 Shortly after the Plague, the Great Fire of London broke out. It
@@ -5065,7 +5035,7 @@ being his brother, Sir John Bennet, and one Andrew Ellis. Ellis died in
 who continued to hold the office of Deputy Postmaster-General till the
 close of Lord Arlington's first term in 1677. The precise conditions
 of Arlington's grant, as regards rent, are not known. The patent roll
-sets forth that the sum of £5382, 10s. was to be reserved to the order
+sets forth that the sum of Â£5382, 10s. was to be reserved to the order
 of the king as in previous grants, but that the remaining rent payable
 by Arlington was to be determined by a tripartite indenture, of the
 same date as the patent, to be executed between James Duke of York of
@@ -5076,7 +5046,7 @@ The third party to the indenture was the widow of Viscount Falmouth,
 who fell in the battle with the Dutch off Lowestoft, on the 3rd June
 1665, and the arrangement here made was probably with the view of
 securing her some allowance. Haydn, however, places Lord Arlington's
-rent, in 1674, at £43,000, but we are unable to say from what source
+rent, in 1674, at Â£43,000, but we are unable to say from what source
 these figures are taken. Lord Arlington's advent to the Post Office in
 1667 was marked by measures that were held to be very oppressive by the
 staff of that office. This is abundantly clear from letters written at
@@ -5109,7 +5079,7 @@ jackets, would not do the business, as some had proved very rogues and
 cheats, and were rooted out.... Sir John said that as his lordship had
 to pay a greater rent than before, other things must be improved." He
 again writes, that "Sir John Bennett tries to reduce the postmasters
-to 20s. a mile, which lowers them from £40 to £20 a year; and that he
+to 20s. a mile, which lowers them from Â£40 to Â£20 a year; and that he
 makes and unmakes contracts, so that they fear they may be removed at
 pleasure. The two porters are reduced from 10s. to 6s. a week, and
 are no longer to have 6d. for each express sent to Whitehall; the 30
@@ -5133,7 +5103,7 @@ to know that he has discharged his duty faithfully in all hazards and
 hardships."
 
 Incidentally, Hickes mentions in one of these plaintive letters that
-his salary as senior clerk was £100 a year. He also indicates that Sir
+his salary as senior clerk was Â£100 a year. He also indicates that Sir
 John Bennet[4] was no favourite with the staff; for he says of him,
 that when he comes into the office "it is with such deportment and
 carriage that no king can exceed."
@@ -5160,7 +5130,7 @@ troops, or a son of that person. He was, at anyrate, an attendant upon
 King Charles II. during his exile, and, in the semblance of a Court
 then maintained, he held the position of a member of the Privy Chamber.
 A letter is extant in which the king begs from Whitley the loan of
-£100. At the Restoration, Whitley received the appointment of Harbinger
+Â£100. At the Restoration, Whitley received the appointment of Harbinger
 to the King, and now the appointment of Deputy Postmaster-General. It
 is not improbable that he was a Cheshire man, from the facts that his
 daughter was married to Sir John Mainwaring of Peover, in that county,
@@ -5186,11 +5156,11 @@ one-third of a penny.
 
 It is worthy of note, that on the admission of the deputy postmasters
 to office they were required to pay, in addition to the fine above
-referred to, fees for their deeds of deputation amounting to £3, 10s.
+referred to, fees for their deeds of deputation amounting to Â£3, 10s.
 These fees went to the clerks at head-quarters, among whom they were
 divided, as a payment, apparently, for the drafting and preparing the
 necessary papers. This must have been a heavy tax upon the postmasters,
-the sum mentioned being equivalent in value to at least £14 of our
+the sum mentioned being equivalent in value to at least Â£14 of our
 present money.
 
                                                       CHESTER ROAD.
@@ -5200,7 +5170,7 @@ present money.
  |   down).  |  Stages.   |  Postmasters' Names.  |  Salary.  | to Derby  |
  |           |            |                       |           |   Road.   |
  +-----------+------------+-----------------------+-----------+-----------+
- |           |            |                       |  £  s. d. |  £  s. d. |
+ |           |            |                       |  Â£  s. d. |  Â£  s. d. |
  |           |            |                       |           |           |
  | 10 Single | London     | J. Bennett            | 30  0  0  | 10  0  0  |
  |           |            |                       |           |           |
@@ -5219,8 +5189,8 @@ present money.
   judgement.  |                            |   Fines.   |
               |                            |            |
  -------------+----------------------------+------------+
-   £   s. d.  |{ Viz. for riding, £15    } |  £   s. d. |
-              |{   per annum, and £6     } |            |
+   Â£   s. d.  |{ Viz. for riding, Â£15    } |  Â£   s. d. |
+              |{   per annum, and Â£6     } |            |
   21   0  0   |{   per annum for sending } | 21   0  0  |
               |{   his horse each        } |            |
               |{   night to the office.  } |            |
@@ -5325,7 +5295,7 @@ neglect be amended, or it will make a breach; consider well of it."
 The threat held out in the former of these two letters of a messenger
 being sent for the postmaster was really a serious affair, for it meant
 the taking the postmaster into custody, and his being probably involved
-in expenses to the extent of £20 before he could obtain release.
+in expenses to the extent of Â£20 before he could obtain release.
 
 It might be supposed that the farming of the posts was a most
 unbusinesslike way of carrying on the work of the public conveyance
@@ -5450,7 +5420,7 @@ laws established."
 FOOTNOTES:
 
 [Footnote 4: Andrew Marvell says of Bennet that he "got of the poor
-indigent Cavaliers' money £26,000, and other wayes near £40,000 more."]
+indigent Cavaliers' money Â£26,000, and other wayes near Â£40,000 more."]
 
 [Footnote 5: The property of Sir Philip Mainwaring, Bart., of Peover
 Hall, Knutsford, by whose courtesy they have been consulted.]
@@ -5625,7 +5595,7 @@ set up a packet service for this purpose from Plymouth to some port in
 Spain, the boats to be employed being of 40, 50, or 60 tons, "with good
 conveniency of cabins, and able to encounter storms," and furnished
 with crews of not under seven or eight good men. In one of his letters
-on this subject Whitley writes, that "the gentleman that demands £50
+on this subject Whitley writes, that "the gentleman that demands Â£50
 per mensem for a vessel of 60 tons is much out of the way"; and he
 adds, "I have two of that burthen to Holland at a less rate." A service
 of this kind from Plymouth is stated to have been kept up in Cromwell's
@@ -5764,8 +5734,8 @@ held an independent appointment from the king as head of the Letter
 Office in Edinburgh, and Whitley was not his master. The terms on
 which the business was arranged are set forth in a letter to Mein of
 the 8th August 1674, to this effect:--"I am content to allow you your
-full 1/8th of unpaid letters from hence, with your £20 salary from the
-commencement of my time till our late agreement of £100 per annum takes
+full 1/8th of unpaid letters from hence, with your Â£20 salary from the
+commencement of my time till our late agreement of Â£100 per annum takes
 place; and upon examination you will find that it exceeds what you have
 now contracted for and are content to accept of." At this time two boys
 were employed in Edinburgh to deliver the letters; and the rate of
@@ -5860,7 +5830,7 @@ Office, or at anyrate a present was expected. This seems very clear
 by some letters of instruction sent by Whitley to his confidential
 servant, Saladine, when on a visit of inspection in the West of
 England. In one letter he says: "Haste the settling all my business
-(but on safe terms), that you may haste homewards; get the £10, and
+(but on safe terms), that you may haste homewards; get the Â£10, and
 what you can for the expense of this journey, and get what you can
 for me from the several Postmasters by way of Fine, or Gratuity, for
 renewing their Deputations." The meaning here is plain enough, but in
@@ -6018,7 +5988,7 @@ OPINIONS OF THE PRESS.
 
 The Times.--"The author of 'The Royal Mail' has served five-and-twenty
 years in the Post-Office, and had it been his fortune to turn novelist,
-like his confrère Anthony Trollope, he would never have been so lavish
+like his confrÃ¨re Anthony Trollope, he would never have been so lavish
 of invaluable materials. The merest glance through his pages might
 suggest subjects or incidents for half a score of sensational romances.
 But the whole of the volume is so full of fascination that once taken
@@ -6070,7 +6040,7 @@ little work, nor have we been disappointed.... Mr. Hyde's book comes at
 an opportune moment, and we have no doubt will be widely read."
 
 Globe.--"This is no dry-as-dust compilation, but a brightly-written
-résumé, full of significant facts and picturesque incidents. The little
+rÃ©sumÃ©, full of significant facts and picturesque incidents. The little
 brochure is neatly printed and usefully illustrated."
 
 Scottish Leader.--"It is a prettily got up little volume, containing
@@ -6165,7 +6135,7 @@ WORKS ON ECONOMICS.
 
   A History of Socialism. By Thomas Kirkup. Crown 8vo, price 6s.
 
-  The Encyclopædia Britannica. A Dictionary of Arts, Sciences, and
+  The EncyclopÃ¦dia Britannica. A Dictionary of Arts, Sciences, and
   General Literature. Ninth Edition. Contains Articles by the following
   Economists:--W.S. Jevons, Thomas Kirkup, J. Shield Nicholson,
   T.B. Sprague, Right Hon. Leonard H. Courtney, Mrs. Fawcett, Henry
@@ -6185,367 +6155,4 @@ LONDON: ADAM AND CHARLES BLACK.
 End of the Project Gutenberg EBook of The Early History of the Post in Grant
 and Farm, by James Wilson Hyde
 
-*** END OF THIS PROJECT GUTENBERG EBOOK EARLY HISTORY OF THE POST ***
-
-***** This file should be named 58717-8.txt or 58717-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/7/1/58717/
-
-Produced by Donald Cummings, Adrian Mastronardi, Graeme
-Mackreth The Philatelic Digital Library Project at
-http://www.tpdlp.net and the Online Distributed Proofreading
-Team at http://www.pgdp.net (This file was produced from
-images generously made available by The Internet
-Archive/American Libraries.)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58717 ***
